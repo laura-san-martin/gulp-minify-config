@@ -6,9 +6,6 @@ These files allow you to start a project with a basic minifier for SASS/CSS file
 
 ### Prerequisites
 Have [NPM and Node.js](https://pages.github.com/) installed.
-```
-https://nodejs.org/en/download/
-```
 
 ### Installing
 Clone or download this repo and add the contents of the folder **--pack--** in your project or assets folder.
