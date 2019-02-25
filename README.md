@@ -98,7 +98,7 @@ This section will show the structure of a single page I made for a client.
 ### The html imports:
 ![alt Source Folder](assets/html.png)
 
-### Running
+### And finally, running:
 
 ![alt Source Folder](assets/html.png)
 
