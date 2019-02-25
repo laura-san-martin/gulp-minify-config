@@ -1,0 +1,28 @@
+{
+  "name": "gulp-minify-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-combine-mq": "^0.4.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laura San Martin",
+  "description": "A simple Gulp configuration to minify SASS, JS and Images.",
+  "homepage": "https://github.com/laurexsan/gulp-minify-config",
+  "license": "GNU General Public License v3.0"
+}
